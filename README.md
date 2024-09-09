@@ -1,2 +1,1 @@
-# TypeScriptDUIKT
- 
+This game is a small project created to fulfill a task requiring a program with approximately 200 lines of code. The game was developed using JavaScript.
